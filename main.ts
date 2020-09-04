@@ -1,5 +1,5 @@
-let previous_millis = 0
 let current_millis = 0
+let previous_millis = 0
 let interval = 500
 basic.clearScreen()
 basic.forever(function () {
